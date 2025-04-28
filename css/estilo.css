@@ -1,0 +1,129 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0%;
+}
+
+.navbar {
+    display: flex;
+    flex-flow: row wrap;
+    height: 100px;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    background-image: url(../img/ChatGPT\ Image\ 8\ de\ abr.\ de\ 2025\,\ 18_54_31.png);
+    height: 400px;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: #dad3cd;
+    flex: 20%;
+    text-align: center;
+
+}
+
+.logo h1 {
+    font-size: 34px;
+    color: #ffc300;
+}
+
+
+.header {
+    background: #172023;
+    margin-top: 10%;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.header h2 {
+    font-weight: 900;
+    font-size: 20px;
+    color: #ffc300;
+    padding: 0;
+    margin: 0;
+
+}
+
+.headline p {
+    color: white;
+    text-align: left;
+}
+
+
+.headline {
+    height: 100%;
+    width: 100%;
+    flex: 40%;
+    margin-left: 10%;
+}
+
+.img-headline {
+    display: inline-block;
+    min-height: auto;
+    margin-top: 5%;
+    margin-right: 10%;
+    flex: 40%;
+    text-align: center;
+}
+
+body {
+    background: #172023;
+}
+
+section {
+    margin-top: 100px;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: inline-block;
+    text-align: center;
+    padding: 5%;
+    width: 90%;
+}
+
+section h2 {
+    min-height: auto;
+    width: 100%;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.servicos {
+    display: inline-block;
+    margin-top: 5%;
+}
+
+.card {
+    display: inline-block;
+    width: 30%;
+    padding: 20px;
+    margin: 1%;
+    border: 1px solid;
+    cursor: pointer;
+    background: #010202;
+    border-radius: 10px;
+    color: #ffc300;
+}
+
+
+.rodape {
+    margin-top: 100px;
+    height: 400px;
+    color: #ffc300;
+    background-image: linear-gradient(180deg, #172023, #172023, #010202, #ffc300);
+    text-align: center;
+}
+
+.instarelevantes {
+    background: #172023;
+    display: inlin
+}
